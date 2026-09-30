@@ -25,22 +25,18 @@ ATM Management System is a beginner-friendly Python console project. It simulate
 ## 4. Folder Structure
 ```text
 ATM_Management_System_Project/
-├── src/
-│   ├── main.py
-│   ├── config.py
-│   ├── account.py
-│   ├── transactions.py
-│   ├── validation.py
-│   ├── operations.py
-│   └── menu.py
-├── tests/
-│   └── test_atm.py
-├── docs/
-│   └── project_report.pdf
-├── README.md
-├── statement.md
-└── requirements.txt
-```
+src
+account.py
+config.py
+main.py
+menu.py
+operations.py
+transactions.py
+validation.py
+test
+test_atm.py
+README.md
+statement.md
 
 ## 5. How to Run
 1. Install Python 3.
