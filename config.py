@@ -1,0 +1,4 @@
+# Project settings
+
+STARTING_BALANCE = 5000
+DEFAULT_PIN = 1234
